@@ -1,0 +1,9 @@
+name = "router"
+
+main = "index.js"
+compatibility_date = "2023-02-12"
+
+[vars]
+DB_ENV = "main"
+PRODUCTS_COL = "products"
+MATCHES_COL = "matches"
